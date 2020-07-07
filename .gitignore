@@ -1,0 +1,8 @@
+
+vim .gitignore
+target
+*.iml
+.idea
+
+
+:wq
